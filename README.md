@@ -1,6 +1,7 @@
 
 
-# Mario Pizza App<img width="535" alt="Capture d’écran 2024-01-12 à 15 37 54" src="https://github.com/Sondes-Messai/ECF3AppPizzaReactNative-java/assets/95591621/02abfbee-9644-4740-ab46-57392abf5db6">
+# Mario Pizza App
+<img width="535" alt="Capture d’écran 2024-01-12 à 15 37 54" src="https://github.com/Sondes-Messai/ECF3AppPizzaReactNative-java/assets/95591621/02abfbee-9644-4740-ab46-57392abf5db6">
 
 
 Bienvenue dans l'application Mario Pizza ! Cette application a été développée avec React Native et Java pour vous permettre de passer facilement des commandes de pizzas. Découvrez notre sélection de délicieuses pizzas et personnalisez-les selon vos préférences.
